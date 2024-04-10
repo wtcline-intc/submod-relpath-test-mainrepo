@@ -1,0 +1,3 @@
+[submodule "submod-relpath-test-submodule"]
+	path = submod-relpath-test-submodule
+	url = ../submod-relpath-test-submodule.git
